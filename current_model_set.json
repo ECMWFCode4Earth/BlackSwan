@@ -1,0 +1,42 @@
+{
+    "DAGMM": {
+        "toTrain": true,
+        "toPredict": true,
+        "data_path": "data/June30_mars_4min",
+        "weight_path": "weights/DAGMM",
+        "predictions_path": "predictions/DAGMM",
+        "train_begin": 0,
+        "train_end": 16395,
+        "test_begin": 0,
+        "test_end": 16410,
+        "forecast_length": 15,
+        "skip_length": 0,
+        "training_params": {
+            "lambda_energy": 0.2,
+            "lr": 0.001,
+            "batch_size": 50,
+            "gmm_k": 3,
+            "num_epochs": 5,
+            "sequence_length": 20
+        }
+    },
+    "LSTM_DAGMM": {
+        "toTrain": false,
+        "toPredict": false,
+        "data_path": "data/June30_mars_4min",
+        "weight_path": "weights/LSTM_DAGMM",
+        "predictions_path": "predictions/LSTM_DAGMM",
+        "train_begin": 0,
+        "train_end": 10800,
+        "test_begin": 0,
+        "test_end": null,
+        "training_params": {
+            "lambda_energy": 0.2,
+            "lr": 0.001,
+            "batch_size": 50,
+            "gmm_k": 3,
+            "num_epochs": 1,
+            "sequence_length": 20
+        }
+    }
+}

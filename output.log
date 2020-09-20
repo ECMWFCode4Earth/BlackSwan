@@ -1,0 +1,1989 @@
+[2020-09-15 09:43:15][INFO][(MainThread)][LSTM_DAGMM.py:36] Initialization Succesful.
+[2020-09-15 09:43:15][INFO][(MainThread)][main.py:30] All Models Initialized.
+[2020-09-15 09:43:15][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:43:16][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10455]
+[2020-09-15 09:43:20][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:43:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9470, 10470]
+[2020-09-15 09:43:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:22][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:43:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9485, 10485]
+[2020-09-15 09:43:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:43:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9500, 10500]
+[2020-09-15 09:43:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:43:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:43:39][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10500]
+[2020-09-15 09:43:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:43:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9515, 10515]
+[2020-09-15 09:43:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:43:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9530, 10530]
+[2020-09-15 09:43:51][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:43:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:43:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9545, 10545]
+[2020-09-15 09:43:57][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:43:57][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:01][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:44:02][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10545]
+[2020-09-15 09:44:06][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:44:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9560, 10560]
+[2020-09-15 09:44:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9575, 10575]
+[2020-09-15 09:44:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9590, 10590]
+[2020-09-15 09:44:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:24][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:44:24][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10590]
+[2020-09-15 09:44:29][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:44:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9605, 10605]
+[2020-09-15 09:44:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:31][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:35][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:35][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9620, 10620]
+[2020-09-15 09:44:37][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:37][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:41][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9635, 10635]
+[2020-09-15 09:44:43][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:43][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:47][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:44:47][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10635]
+[2020-09-15 09:44:52][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:44:52][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:52][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9650, 10650]
+[2020-09-15 09:44:54][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:44:54][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:44:58][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:44:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9665, 10665]
+[2020-09-15 09:45:00][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9680, 10680]
+[2020-09-15 09:45:06][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:06][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:10][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:45:10][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10680]
+[2020-09-15 09:45:15][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:45:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9695, 10695]
+[2020-09-15 09:45:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9710, 10710]
+[2020-09-15 09:45:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9725, 10725]
+[2020-09-15 09:45:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:33][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:45:33][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10725]
+[2020-09-15 09:45:38][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:45:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9740, 10740]
+[2020-09-15 09:45:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9755, 10755]
+[2020-09-15 09:45:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:45:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9770, 10770]
+[2020-09-15 09:45:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:45:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:45:56][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:45:56][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10770]
+[2020-09-15 09:46:01][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:46:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:01][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9785, 10785]
+[2020-09-15 09:46:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9800, 10800]
+[2020-09-15 09:46:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9815, 10815]
+[2020-09-15 09:46:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:19][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:46:19][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10815]
+[2020-09-15 09:46:24][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:46:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9830, 10830]
+[2020-09-15 09:46:25][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9845, 10845]
+[2020-09-15 09:46:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:31][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:35][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9860, 10860]
+[2020-09-15 09:46:37][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:37][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:41][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:46:42][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10860]
+[2020-09-15 09:46:47][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:46:47][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9875, 10875]
+[2020-09-15 09:46:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:49][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9890, 10890]
+[2020-09-15 09:46:54][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:46:54][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:46:58][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:46:59][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9905, 10905]
+[2020-09-15 09:47:00][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:04][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:47:05][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10905]
+                                                                                                                                                                                            [2020-09-15 09:47:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9920, 10920]
+[2020-09-15 09:47:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:16][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9935, 10935]
+[2020-09-15 09:47:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:22][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9950, 10950]
+[2020-09-15 09:47:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:27][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:47:28][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10950]
+[2020-09-15 09:47:33][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:47:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9965, 10965]
+[2020-09-15 09:47:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9980, 10980]
+[2020-09-15 09:47:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [9995, 10995]
+[2020-09-15 09:47:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:47:50][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:47:51][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 10995]
+[2020-09-15 09:47:56][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:47:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:47:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10010, 11010]
+[2020-09-15 09:47:57][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:47:57][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:02][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10025, 11025]
+[2020-09-15 09:48:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:08][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10040, 11040]
+[2020-09-15 09:48:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:13][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:48:14][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11040]
+[2020-09-15 09:48:19][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:48:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10055, 11055]
+[2020-09-15 09:48:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10070, 11070]
+[2020-09-15 09:48:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10085, 11085]
+[2020-09-15 09:48:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:48:37][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11085]
+[2020-09-15 09:48:43][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:48:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10100, 11100]
+[2020-09-15 09:48:45][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:49][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10115, 11115]
+[2020-09-15 09:48:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:48:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:48:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10130, 11130]
+[2020-09-15 09:48:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:48:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:02][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:49:02][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11130]
+[2020-09-15 09:49:09][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:49:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10145, 11145]
+[2020-09-15 09:49:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:14][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10160, 11160]
+[2020-09-15 09:49:16][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:16][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10175, 11175]
+[2020-09-15 09:49:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:22][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:26][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:49:27][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11175]
+[2020-09-15 09:49:33][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:49:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10190, 11190]
+[2020-09-15 09:49:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10205, 11205]
+[2020-09-15 09:49:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:46][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:46][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10220, 11220]
+[2020-09-15 09:49:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:48][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:49:52][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:49:52][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11220]
+[2020-09-15 09:49:57][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:49:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:49:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10235, 11235]
+[2020-09-15 09:49:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:49:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10250, 11250]
+[2020-09-15 09:50:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10265, 11265]
+[2020-09-15 09:50:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:15][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:50:15][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11265]
+[2020-09-15 09:50:20][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:50:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:20][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10280, 11280]
+[2020-09-15 09:50:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:22][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:26][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10295, 11295]
+[2020-09-15 09:50:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10310, 11310]
+[2020-09-15 09:50:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:50:38][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11310]
+[2020-09-15 09:50:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:50:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10325, 11325]
+[2020-09-15 09:50:47][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10340, 11340]
+[2020-09-15 09:50:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:50:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:50:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10355, 11355]
+[2020-09-15 09:50:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:50:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:03][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:51:04][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11355]
+[2020-09-15 09:51:10][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:51:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10370, 11370]
+[2020-09-15 09:51:12][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:16][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:17][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10385, 11385]
+[2020-09-15 09:51:19][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:19][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:23][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10400, 11400]
+[2020-09-15 09:51:25][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:25][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:29][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:51:29][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11400]
+[2020-09-15 09:51:34][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:51:34][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:34][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10415, 11415]
+[2020-09-15 09:51:36][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:36][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:40][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10430, 11430]
+[2020-09-15 09:51:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:46][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:46][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10445, 11445]
+[2020-09-15 09:51:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:48][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:51:52][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:51:52][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11445]
+[2020-09-15 09:51:57][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:51:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:51:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10460, 11460]
+[2020-09-15 09:51:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:51:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10475, 11475]
+[2020-09-15 09:52:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10490, 11490]
+[2020-09-15 09:52:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:15][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:52:15][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11490]
+[2020-09-15 09:52:21][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:52:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10505, 11505]
+[2020-09-15 09:52:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10520, 11520]
+[2020-09-15 09:52:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10535, 11535]
+[2020-09-15 09:52:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:52:39][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11535]
+[2020-09-15 09:52:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:52:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10550, 11550]
+[2020-09-15 09:52:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10565, 11565]
+[2020-09-15 09:52:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:52:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:52:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10580, 11580]
+[2020-09-15 09:52:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:52:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:02][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:53:02][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11580]
+[2020-09-15 09:53:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:53:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10595, 11595]
+[2020-09-15 09:53:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10610, 11610]
+[2020-09-15 09:53:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10625, 11625]
+[2020-09-15 09:53:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:53:25][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11625]
+[2020-09-15 09:53:31][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:53:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10640, 11640]
+[2020-09-15 09:53:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:37][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10655, 11655]
+[2020-09-15 09:53:38][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:38][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10670, 11670]
+[2020-09-15 09:53:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:53:48][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:53:49][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11670]
+[2020-09-15 09:53:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:53:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:53:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10685, 11685]
+[2020-09-15 09:53:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:53:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10700, 11700]
+[2020-09-15 09:54:02][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10715, 11715]
+[2020-09-15 09:54:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:12][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:54:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11715]
+[2020-09-15 09:54:17][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:54:17][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:17][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10730, 11730]
+[2020-09-15 09:54:19][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:19][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:23][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10745, 11745]
+[2020-09-15 09:54:25][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:25][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10760, 11760]
+[2020-09-15 09:54:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:31][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:35][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:54:35][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11760]
+[2020-09-15 09:54:41][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:54:41][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10775, 11775]
+[2020-09-15 09:54:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:43][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:47][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10790, 11790]
+[2020-09-15 09:54:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:49][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:54:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10805, 11805]
+[2020-09-15 09:54:54][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:54:54][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:54:58][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:54:59][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11805]
+[2020-09-15 09:55:04][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:55:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10820, 11820]
+[2020-09-15 09:55:06][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:06][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10835, 11835]
+[2020-09-15 09:55:12][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:16][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:16][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10850, 11850]
+[2020-09-15 09:55:18][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:18][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:22][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:55:22][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11850]
+[2020-09-15 09:55:28][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:55:28][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:28][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10865, 11865]
+[2020-09-15 09:55:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:34][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10880, 11880]
+[2020-09-15 09:55:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10895, 11895]
+[2020-09-15 09:55:41][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:41][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:45][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:55:46][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11895]
+[2020-09-15 09:55:51][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:55:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:52][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10910, 11910]
+[2020-09-15 09:55:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:55:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:55:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10925, 11925]
+[2020-09-15 09:55:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:55:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10940, 11940]
+[2020-09-15 09:56:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:09][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:56:09][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11940]
+[2020-09-15 09:56:15][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:56:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10955, 11955]
+[2020-09-15 09:56:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10970, 11970]
+[2020-09-15 09:56:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [10985, 11985]
+[2020-09-15 09:56:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:33][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:56:33][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 11985]
+[2020-09-15 09:56:39][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:56:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11000, 12000]
+[2020-09-15 09:56:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11015, 12015]
+[2020-09-15 09:56:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:56:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11030, 12030]
+[2020-09-15 09:56:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:56:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:56:56][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:56:57][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12030]
+[2020-09-15 09:57:02][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:57:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:02][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11045, 12045]
+[2020-09-15 09:57:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:08][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:08][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11060, 12060]
+[2020-09-15 09:57:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:14][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:14][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11075, 12075]
+[2020-09-15 09:57:16][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:16][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:20][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:57:20][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12075]
+[2020-09-15 09:57:25][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:57:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:26][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11090, 12090]
+[2020-09-15 09:57:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:27][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11105, 12105]
+[2020-09-15 09:57:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11120, 12120]
+[2020-09-15 09:57:39][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:43][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:57:44][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12120]
+[2020-09-15 09:57:49][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:57:49][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:49][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11135, 12135]
+[2020-09-15 09:57:51][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:51][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:57:55][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:57:55][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11150, 12150]
+[2020-09-15 09:57:57][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:57:57][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:01][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11165, 12165]
+[2020-09-15 09:58:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:07][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:58:07][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12165]
+[2020-09-15 09:58:14][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:58:14][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:14][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11180, 12180]
+[2020-09-15 09:58:16][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:16][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11195, 12195]
+[2020-09-15 09:58:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11210, 12210]
+[2020-09-15 09:58:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:33][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:58:33][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12210]
+[2020-09-15 09:58:40][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:58:40][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11225, 12225]
+[2020-09-15 09:58:43][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:43][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:47][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11240, 12240]
+[2020-09-15 09:58:49][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:49][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:58:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11255, 12255]
+[2020-09-15 09:58:55][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:58:55][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:58:59][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:58:59][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12255]
+[2020-09-15 09:59:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:59:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11270, 12270]
+[2020-09-15 09:59:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11285, 12285]
+[2020-09-15 09:59:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11300, 12300]
+[2020-09-15 09:59:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:59:26][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12300]
+[2020-09-15 09:59:33][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:59:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11315, 12315]
+[2020-09-15 09:59:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11330, 12330]
+[2020-09-15 09:59:41][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:41][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:45][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11345, 12345]
+[2020-09-15 09:59:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 09:59:51][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 09:59:51][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12345]
+[2020-09-15 09:59:56][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 09:59:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 09:59:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11360, 12360]
+[2020-09-15 09:59:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 09:59:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11375, 12375]
+[2020-09-15 10:00:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:08][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11390, 12390]
+[2020-09-15 10:00:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:14][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:00:14][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12390]
+[2020-09-15 10:00:20][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:00:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:20][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11405, 12405]
+[2020-09-15 10:00:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:22][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:26][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11420, 12420]
+[2020-09-15 10:00:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11435, 12435]
+[2020-09-15 10:00:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:00:38][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12435]
+[2020-09-15 10:00:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:00:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11450, 12450]
+[2020-09-15 10:00:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11465, 12465]
+[2020-09-15 10:00:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:00:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:00:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11480, 12480]
+[2020-09-15 10:00:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:00:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:02][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:01:02][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12480]
+[2020-09-15 10:01:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:01:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:08][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11495, 12495]
+[2020-09-15 10:01:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:14][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11510, 12510]
+[2020-09-15 10:01:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:20][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11525, 12525]
+[2020-09-15 10:01:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:01:25][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12525]
+[2020-09-15 10:01:31][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:01:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11540, 12540]
+[2020-09-15 10:01:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:37][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11555, 12555]
+[2020-09-15 10:01:39][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11570, 12570]
+[2020-09-15 10:01:45][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:01:49][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:01:49][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12570]
+[2020-09-15 10:01:55][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:01:55][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:01:55][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11585, 12585]
+[2020-09-15 10:01:57][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:01:57][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:01][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11600, 12600]
+[2020-09-15 10:02:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11615, 12615]
+[2020-09-15 10:02:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:13][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:02:13][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12615]
+[2020-09-15 10:02:19][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:02:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11630, 12630]
+[2020-09-15 10:02:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11645, 12645]
+[2020-09-15 10:02:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:27][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11660, 12660]
+[2020-09-15 10:02:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:37][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:02:37][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12660]
+[2020-09-15 10:02:43][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:02:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11675, 12675]
+[2020-09-15 10:02:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:49][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:49][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11690, 12690]
+[2020-09-15 10:02:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:02:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:02:55][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11705, 12705]
+[2020-09-15 10:02:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:02:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:03:01][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12705]
+[2020-09-15 10:03:06][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:03:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11720, 12720]
+[2020-09-15 10:03:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:12][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11735, 12735]
+[2020-09-15 10:03:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11750, 12750]
+[2020-09-15 10:03:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:24][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:03:24][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12750]
+[2020-09-15 10:03:30][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:03:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11765, 12765]
+[2020-09-15 10:03:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:36][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11780, 12780]
+[2020-09-15 10:03:38][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:38][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11795, 12795]
+[2020-09-15 10:03:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:03:48][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:03:48][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12795]
+[2020-09-15 10:03:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:03:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:03:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11810, 12810]
+[2020-09-15 10:03:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:03:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11825, 12825]
+[2020-09-15 10:04:02][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11840, 12840]
+[2020-09-15 10:04:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:12][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:04:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12840]
+[2020-09-15 10:04:18][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:04:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11855, 12855]
+[2020-09-15 10:04:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11870, 12870]
+[2020-09-15 10:04:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11885, 12885]
+[2020-09-15 10:04:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:04:36][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12885]
+[2020-09-15 10:04:42][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:04:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11900, 12900]
+[2020-09-15 10:04:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11915, 12915]
+[2020-09-15 10:04:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:04:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:04:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11930, 12930]
+[2020-09-15 10:04:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:04:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:05:00][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12930]
+[2020-09-15 10:05:06][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:05:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11945, 12945]
+[2020-09-15 10:05:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:12][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11960, 12960]
+[2020-09-15 10:05:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11975, 12975]
+[2020-09-15 10:05:19][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:24][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:05:24][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 12975]
+[2020-09-15 10:05:30][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:05:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [11990, 12990]
+[2020-09-15 10:05:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:36][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12005, 13005]
+[2020-09-15 10:05:37][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:38][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12020, 13020]
+[2020-09-15 10:05:43][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:43][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:05:47][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:05:48][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13020]
+[2020-09-15 10:05:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:05:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:05:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12035, 13035]
+[2020-09-15 10:05:55][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:05:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12050, 13050]
+[2020-09-15 10:06:01][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:01][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:05][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12065, 13065]
+[2020-09-15 10:06:07][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:07][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:11][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:06:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13065]
+[2020-09-15 10:06:18][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:06:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12080, 13080]
+[2020-09-15 10:06:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12095, 13095]
+[2020-09-15 10:06:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12110, 13110]
+[2020-09-15 10:06:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:06:36][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13110]
+[2020-09-15 10:06:42][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:06:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12125, 13125]
+[2020-09-15 10:06:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12140, 13140]
+[2020-09-15 10:06:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:06:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:06:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12155, 13155]
+[2020-09-15 10:06:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:06:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:07:00][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13155]
+[2020-09-15 10:07:06][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:07:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12170, 13170]
+[2020-09-15 10:07:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:12][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12185, 13185]
+[2020-09-15 10:07:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12200, 13200]
+[2020-09-15 10:07:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:24][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:07:24][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13200]
+[2020-09-15 10:07:30][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:07:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12215, 13215]
+[2020-09-15 10:07:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:36][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12230, 13230]
+[2020-09-15 10:07:38][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:38][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12245, 13245]
+[2020-09-15 10:07:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:07:48][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:07:48][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13245]
+[2020-09-15 10:07:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:07:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:07:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12260, 13260]
+[2020-09-15 10:07:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:07:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12275, 13275]
+[2020-09-15 10:08:02][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12290, 13290]
+[2020-09-15 10:08:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:12][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:08:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13290]
+[2020-09-15 10:08:18][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:08:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12305, 13305]
+[2020-09-15 10:08:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12320, 13320]
+[2020-09-15 10:08:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12335, 13335]
+[2020-09-15 10:08:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:08:36][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13335]
+[2020-09-15 10:08:42][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:08:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12350, 13350]
+[2020-09-15 10:08:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12365, 13365]
+[2020-09-15 10:08:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:08:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:08:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12380, 13380]
+[2020-09-15 10:08:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:08:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:09:00][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13380]
+[2020-09-15 10:09:06][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:09:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12395, 13395]
+[2020-09-15 10:09:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:12][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12410, 13410]
+[2020-09-15 10:09:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12425, 13425]
+[2020-09-15 10:09:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:24][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:09:24][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13425]
+[2020-09-15 10:09:32][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:09:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12440, 13440]
+[2020-09-15 10:09:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12455, 13455]
+[2020-09-15 10:09:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12470, 13470]
+[2020-09-15 10:09:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:09:50][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:09:50][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13470]
+[2020-09-15 10:09:56][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:09:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:09:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12485, 13485]
+[2020-09-15 10:09:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:09:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12500, 13500]
+[2020-09-15 10:10:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:08][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12515, 13515]
+[2020-09-15 10:10:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:14][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:10:14][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13515]
+[2020-09-15 10:10:21][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:10:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12530, 13530]
+[2020-09-15 10:10:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12545, 13545]
+[2020-09-15 10:10:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12560, 13560]
+[2020-09-15 10:10:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:10:39][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13560]
+[2020-09-15 10:10:45][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:10:45][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12575, 13575]
+[2020-09-15 10:10:47][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12590, 13590]
+[2020-09-15 10:10:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:10:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:10:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12605, 13605]
+[2020-09-15 10:10:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:10:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:03][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:11:03][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13605]
+[2020-09-15 10:11:09][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:11:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12620, 13620]
+[2020-09-15 10:11:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12635, 13635]
+[2020-09-15 10:11:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12650, 13650]
+[2020-09-15 10:11:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:27][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:11:27][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13650]
+[2020-09-15 10:11:33][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:11:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12665, 13665]
+[2020-09-15 10:11:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12680, 13680]
+[2020-09-15 10:11:41][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:41][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:45][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12695, 13695]
+[2020-09-15 10:11:47][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:11:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:11:51][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:11:51][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13695]
+[2020-09-15 10:11:58][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:11:58][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:11:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12710, 13710]
+[2020-09-15 10:11:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12725, 13725]
+[2020-09-15 10:12:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12740, 13740]
+[2020-09-15 10:12:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:15][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:12:16][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13740]
+[2020-09-15 10:12:24][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:12:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12755, 13755]
+[2020-09-15 10:12:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12770, 13770]
+[2020-09-15 10:12:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:36][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12785, 13785]
+[2020-09-15 10:12:38][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:43][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:12:43][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13785]
+[2020-09-15 10:12:51][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:12:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12800, 13800]
+[2020-09-15 10:12:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:12:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:12:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12815, 13815]
+[2020-09-15 10:12:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:12:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12830, 13830]
+[2020-09-15 10:13:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:09][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:13:10][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13830]
+[2020-09-15 10:13:18][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:13:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12845, 13845]
+[2020-09-15 10:13:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12860, 13860]
+[2020-09-15 10:13:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12875, 13875]
+[2020-09-15 10:13:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:13:36][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13875]
+[2020-09-15 10:13:43][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:13:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12890, 13890]
+[2020-09-15 10:13:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:49][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:49][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12905, 13905]
+[2020-09-15 10:13:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:13:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:13:55][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12920, 13920]
+[2020-09-15 10:13:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:13:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:14:01][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13920]
+[2020-09-15 10:14:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:14:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12935, 13935]
+[2020-09-15 10:14:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12950, 13950]
+[2020-09-15 10:14:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12965, 13965]
+[2020-09-15 10:14:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:14:25][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 13965]
+[2020-09-15 10:14:31][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:14:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12980, 13980]
+[2020-09-15 10:14:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:37][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [12995, 13995]
+[2020-09-15 10:14:39][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13010, 14010]
+[2020-09-15 10:14:45][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:14:49][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:14:49][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14010]
+[2020-09-15 10:14:55][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:14:55][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:14:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13025, 14025]
+[2020-09-15 10:14:57][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:14:57][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:02][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13040, 14040]
+[2020-09-15 10:15:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13055, 14055]
+[2020-09-15 10:15:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:13][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:15:13][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14055]
+[2020-09-15 10:15:20][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:15:20][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:20][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13070, 14070]
+[2020-09-15 10:15:22][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:22][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:26][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13085, 14085]
+[2020-09-15 10:15:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13100, 14100]
+[2020-09-15 10:15:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:37][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:15:38][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14100]
+[2020-09-15 10:15:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:15:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13115, 14115]
+[2020-09-15 10:15:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13130, 14130]
+[2020-09-15 10:15:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:15:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:15:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13145, 14145]
+[2020-09-15 10:15:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:15:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:02][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:16:02][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14145]
+[2020-09-15 10:16:10][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:16:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13160, 14160]
+[2020-09-15 10:16:12][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:16][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:16][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13175, 14175]
+[2020-09-15 10:16:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:18][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:22][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:22][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13190, 14190]
+[2020-09-15 10:16:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:27][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:16:28][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14190]
+[2020-09-15 10:16:34][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:16:34][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:34][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13205, 14205]
+[2020-09-15 10:16:36][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:36][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:40][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13220, 14220]
+[2020-09-15 10:16:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:46][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:46][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13235, 14235]
+[2020-09-15 10:16:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:16:48][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:16:52][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:16:52][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14235]
+[2020-09-15 10:16:59][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:16:59][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:16:59][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13250, 14250]
+[2020-09-15 10:17:00][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:05][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13265, 14265]
+[2020-09-15 10:17:07][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:07][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:11][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:11][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13280, 14280]
+[2020-09-15 10:17:13][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:13][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:17][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:17:17][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14280]
+[2020-09-15 10:17:26][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:17:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:26][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13295, 14295]
+[2020-09-15 10:17:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13310, 14310]
+[2020-09-15 10:17:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13325, 14325]
+[2020-09-15 10:17:39][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:43][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:17:44][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14325]
+[2020-09-15 10:17:50][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:17:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13340, 14340]
+[2020-09-15 10:17:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:17:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:17:56][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13355, 14355]
+[2020-09-15 10:17:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:17:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:02][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13370, 14370]
+[2020-09-15 10:18:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:08][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:18:08][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14370]
+[2020-09-15 10:18:15][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:18:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13385, 14385]
+[2020-09-15 10:18:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:21][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13400, 14400]
+[2020-09-15 10:18:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13415, 14415]
+[2020-09-15 10:18:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:33][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:18:33][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14415]
+[2020-09-15 10:18:39][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:18:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13430, 14430]
+[2020-09-15 10:18:41][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:41][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:45][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:46][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13445, 14445]
+[2020-09-15 10:18:47][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:18:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13460, 14460]
+[2020-09-15 10:18:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:18:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:18:57][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:18:57][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14460]
+[2020-09-15 10:19:04][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:19:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13475, 14475]
+[2020-09-15 10:19:06][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:06][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13490, 14490]
+[2020-09-15 10:19:12][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:16][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:16][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13505, 14505]
+[2020-09-15 10:19:18][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:18][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:22][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:19:22][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14505]
+[2020-09-15 10:19:29][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:19:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13520, 14520]
+[2020-09-15 10:19:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:31][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:35][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:35][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13535, 14535]
+[2020-09-15 10:19:36][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:36][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:41][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13550, 14550]
+[2020-09-15 10:19:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:46][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:19:47][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14550]
+[2020-09-15 10:19:53][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:19:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13565, 14565]
+[2020-09-15 10:19:55][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:19:55][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:19:59][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:19:59][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13580, 14580]
+[2020-09-15 10:20:01][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:01][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:05][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:05][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13595, 14595]
+[2020-09-15 10:20:07][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:07][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:11][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:20:11][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14595]
+[2020-09-15 10:20:18][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:20:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:18][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13610, 14610]
+[2020-09-15 10:20:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:24][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13625, 14625]
+[2020-09-15 10:20:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:30][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:30][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13640, 14640]
+[2020-09-15 10:20:32][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:32][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:36][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:20:36][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14640]
+[2020-09-15 10:20:44][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:20:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13655, 14655]
+[2020-09-15 10:20:47][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:47][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13670, 14670]
+[2020-09-15 10:20:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:20:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:20:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13685, 14685]
+[2020-09-15 10:20:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:20:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:03][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:21:04][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14685]
+[2020-09-15 10:21:12][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:21:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:12][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13700, 14700]
+[2020-09-15 10:21:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13715, 14715]
+[2020-09-15 10:21:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13730, 14730]
+[2020-09-15 10:21:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:30][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:21:31][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14730]
+[2020-09-15 10:21:37][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:21:37][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:37][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13745, 14745]
+[2020-09-15 10:21:39][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:39][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:43][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:43][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13760, 14760]
+[2020-09-15 10:21:45][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:45][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:49][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:21:49][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13775, 14775]
+[2020-09-15 10:21:51][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:21:51][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:21:55][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:21:55][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14775]
+[2020-09-15 10:22:02][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:22:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:02][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13790, 14790]
+[2020-09-15 10:22:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:08][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:08][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13805, 14805]
+[2020-09-15 10:22:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:14][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:14][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13820, 14820]
+[2020-09-15 10:22:16][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:16][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:20][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:22:20][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14820]
+[2020-09-15 10:22:27][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:22:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13835, 14835]
+[2020-09-15 10:22:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13850, 14850]
+[2020-09-15 10:22:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:39][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13865, 14865]
+[2020-09-15 10:22:41][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:41][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:45][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:22:45][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14865]
+[2020-09-15 10:22:52][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:22:52][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:52][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13880, 14880]
+[2020-09-15 10:22:54][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:22:54][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:22:58][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:22:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13895, 14895]
+[2020-09-15 10:23:00][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:04][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13910, 14910]
+[2020-09-15 10:23:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:06][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:10][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:23:10][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14910]
+[2020-09-15 10:23:17][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:23:17][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:17][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13925, 14925]
+[2020-09-15 10:23:18][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:18][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:22][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13940, 14940]
+[2020-09-15 10:23:24][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:24][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:28][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13955, 14955]
+[2020-09-15 10:23:30][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:30][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:34][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:23:35][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 14955]
+[2020-09-15 10:23:41][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:23:41][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13970, 14970]
+[2020-09-15 10:23:43][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:43][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:47][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [13985, 14985]
+[2020-09-15 10:23:49][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:49][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:23:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14000, 15000]
+[2020-09-15 10:23:55][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:23:55][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:23:59][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:23:59][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15000]
+[2020-09-15 10:24:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:24:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14015, 15015]
+[2020-09-15 10:24:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14030, 15030]
+[2020-09-15 10:24:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14045, 15045]
+[2020-09-15 10:24:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:24:25][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15045]
+[2020-09-15 10:24:32][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:24:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14060, 15060]
+[2020-09-15 10:24:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14075, 15075]
+[2020-09-15 10:24:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14090, 15090]
+[2020-09-15 10:24:45][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:24:50][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:24:50][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15090]
+[2020-09-15 10:24:57][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:24:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:24:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14105, 15105]
+[2020-09-15 10:24:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:24:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:02][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14120, 15120]
+[2020-09-15 10:25:04][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:04][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:08][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14135, 15135]
+[2020-09-15 10:25:10][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:10][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:14][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:25:15][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15135]
+[2020-09-15 10:25:21][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:25:21][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:22][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14150, 15150]
+[2020-09-15 10:25:23][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:23][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:27][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:28][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14165, 15165]
+[2020-09-15 10:25:29][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:29][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:33][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14180, 15180]
+[2020-09-15 10:25:35][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:35][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:39][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:25:39][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15180]
+[2020-09-15 10:25:46][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:25:46][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14195, 15195]
+[2020-09-15 10:25:48][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:48][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:52][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:52][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14210, 15210]
+[2020-09-15 10:25:54][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:25:54][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:25:58][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:25:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14225, 15225]
+[2020-09-15 10:26:00][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:00][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:04][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:26:04][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15225]
+[2020-09-15 10:26:11][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:26:11][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:11][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14240, 15240]
+[2020-09-15 10:26:13][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:13][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:17][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:17][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14255, 15255]
+[2020-09-15 10:26:19][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:19][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:23][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14270, 15270]
+[2020-09-15 10:26:25][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:25][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:29][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:26:29][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15270]
+[2020-09-15 10:26:36][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:26:36][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:36][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14285, 15285]
+[2020-09-15 10:26:38][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:38][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14300, 15300]
+[2020-09-15 10:26:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:26:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14315, 15315]
+[2020-09-15 10:26:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:26:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:26:54][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:26:54][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15315]
+[2020-09-15 10:27:01][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:27:01][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:01][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14330, 15330]
+[2020-09-15 10:27:03][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:03][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14345, 15345]
+[2020-09-15 10:27:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14360, 15360]
+[2020-09-15 10:27:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:19][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:27:19][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15360]
+[2020-09-15 10:27:26][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:27:26][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:27][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14375, 15375]
+[2020-09-15 10:27:28][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:28][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:33][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14390, 15390]
+[2020-09-15 10:27:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:39][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14405, 15405]
+[2020-09-15 10:27:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:44][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:27:44][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15405]
+[2020-09-15 10:27:51][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:27:51][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:52][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14420, 15420]
+[2020-09-15 10:27:53][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:53][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:27:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:27:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14435, 15435]
+[2020-09-15 10:27:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:27:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14450, 15450]
+[2020-09-15 10:28:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:09][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:28:10][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15450]
+[2020-09-15 10:28:17][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:28:17][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:17][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14465, 15465]
+[2020-09-15 10:28:19][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:19][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:23][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14480, 15480]
+[2020-09-15 10:28:24][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:25][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14495, 15495]
+[2020-09-15 10:28:30][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:30][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:34][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:28:35][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15495]
+[2020-09-15 10:28:42][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:28:42][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:42][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14510, 15510]
+[2020-09-15 10:28:44][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:44][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14525, 15525]
+[2020-09-15 10:28:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:28:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:28:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14540, 15540]
+[2020-09-15 10:28:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:28:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:00][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:29:00][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15540]
+[2020-09-15 10:29:07][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:29:07][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:07][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14555, 15555]
+[2020-09-15 10:29:09][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:09][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14570, 15570]
+[2020-09-15 10:29:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14585, 15585]
+[2020-09-15 10:29:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:25][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:29:25][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15585]
+[2020-09-15 10:29:32][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:29:32][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:32][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14600, 15600]
+[2020-09-15 10:29:34][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14615, 15615]
+[2020-09-15 10:29:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14630, 15630]
+[2020-09-15 10:29:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:29:50][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:29:50][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15630]
+[2020-09-15 10:29:57][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:29:57][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:29:58][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14645, 15645]
+[2020-09-15 10:29:59][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:29:59][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14660, 15660]
+[2020-09-15 10:30:06][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:06][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14675, 15675]
+[2020-09-15 10:30:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:16][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:30:16][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15675]
+[2020-09-15 10:30:23][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:30:23][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:23][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14690, 15690]
+[2020-09-15 10:30:25][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:25][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14705, 15705]
+[2020-09-15 10:30:31][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:31][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:35][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:35][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14720, 15720]
+[2020-09-15 10:30:37][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:37][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:41][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:30:41][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15720]
+[2020-09-15 10:30:48][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:30:48][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:48][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14735, 15735]
+[2020-09-15 10:30:50][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:50][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:30:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:30:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14750, 15750]
+[2020-09-15 10:30:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:30:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14765, 15765]
+[2020-09-15 10:31:02][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:06][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:31:06][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15765]
+[2020-09-15 10:31:13][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:31:13][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14780, 15780]
+[2020-09-15 10:31:15][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:15][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14795, 15795]
+[2020-09-15 10:31:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14810, 15810]
+[2020-09-15 10:31:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:27][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:31][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:31:31][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15810]
+[2020-09-15 10:31:38][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:31:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14825, 15825]
+[2020-09-15 10:31:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14840, 15840]
+[2020-09-15 10:31:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:31:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14855, 15855]
+[2020-09-15 10:31:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:31:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:31:56][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:31:56][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15855]
+[2020-09-15 10:32:03][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:32:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:04][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14870, 15870]
+[2020-09-15 10:32:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14885, 15885]
+[2020-09-15 10:32:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14900, 15900]
+[2020-09-15 10:32:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:21][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:32:21][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15900]
+[2020-09-15 10:32:29][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:32:29][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14915, 15915]
+[2020-09-15 10:32:30][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:30][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:35][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:35][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14930, 15930]
+[2020-09-15 10:32:36][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:36][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:40][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:41][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14945, 15945]
+[2020-09-15 10:32:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:32:46][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:32:47][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15945]
+[2020-09-15 10:32:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:32:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:32:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14960, 15960]
+[2020-09-15 10:32:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:32:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14975, 15975]
+[2020-09-15 10:33:02][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [14990, 15990]
+[2020-09-15 10:33:08][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:08][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:12][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:33:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 15990]
+[2020-09-15 10:33:19][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:33:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:20][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15005, 16005]
+[2020-09-15 10:33:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15020, 16020]
+[2020-09-15 10:33:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:27][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15035, 16035]
+[2020-09-15 10:33:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:34][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:38][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:33:38][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16035]
+[2020-09-15 10:33:47][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:33:47][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:47][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15050, 16050]
+[2020-09-15 10:33:49][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:49][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:53][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:53][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15065, 16065]
+[2020-09-15 10:33:55][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:33:55][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:33:59][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:33:59][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15080, 16080]
+[2020-09-15 10:34:01][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:01][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:05][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:34:05][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16080]
+[2020-09-15 10:34:12][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:34:12][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:13][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15095, 16095]
+[2020-09-15 10:34:14][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:14][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:18][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15110, 16110]
+[2020-09-15 10:34:20][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:20][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:24][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15125, 16125]
+[2020-09-15 10:34:26][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:26][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:30][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:34:30][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16125]
+[2020-09-15 10:34:38][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:34:38][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:38][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15140, 16140]
+[2020-09-15 10:34:40][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:40][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:44][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:44][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15155, 16155]
+[2020-09-15 10:34:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:34:50][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15170, 16170]
+[2020-09-15 10:34:51][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:34:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:34:56][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:34:56][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16170]
+[2020-09-15 10:35:03][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:35:03][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:03][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15185, 16185]
+[2020-09-15 10:35:05][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:05][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:09][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:09][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15200, 16200]
+[2020-09-15 10:35:11][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:11][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:15][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:15][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15215, 16215]
+[2020-09-15 10:35:17][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:17][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:21][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:35:21][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16215]
+[2020-09-15 10:35:28][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:35:28][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:29][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15230, 16230]
+[2020-09-15 10:35:30][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:30][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:34][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:34][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15245, 16245]
+[2020-09-15 10:35:36][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:36][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:40][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:40][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15260, 16260]
+[2020-09-15 10:35:42][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:42][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:35:46][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:35:46][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16260]
+[2020-09-15 10:35:54][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:35:54][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:35:54][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15275, 16275]
+[2020-09-15 10:35:56][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:35:56][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:00][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:00][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15290, 16290]
+[2020-09-15 10:36:01][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:02][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:06][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:06][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15305, 16305]
+[2020-09-15 10:36:07][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:07][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:11][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:36:12][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16305]
+[2020-09-15 10:36:19][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:36:19][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:19][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15320, 16320]
+[2020-09-15 10:36:21][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:21][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:25][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:25][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15335, 16335]
+[2020-09-15 10:36:27][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:27][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:31][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:31][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15350, 16350]
+[2020-09-15 10:36:33][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:33][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:37][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:36:37][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16350]
+[2020-09-15 10:36:45][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:36:45][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:45][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15365, 16365]
+[2020-09-15 10:36:46][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:46][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:50][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:51][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15380, 16380]
+[2020-09-15 10:36:52][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:52][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:36:56][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:36:57][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15395, 16395]
+[2020-09-15 10:36:58][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:36:58][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:37:02][INFO][(MainThread)][main.py:46] Retraining all Models.
+[2020-09-15 10:37:03][INFO][(MainThread)][DAGMM.py:61] Starting Training. Points: [0, 16395]
+[2020-09-15 10:37:10][INFO][(MainThread)][DAGMM.py:66] Training Done. Saved weights at: weights/DAGMM/run1.pth
+[2020-09-15 10:37:10][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:37:10][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15410, 16410]
+[2020-09-15 10:37:12][INFO][(MainThread)][DAGMM.py:87] Evaluation Done. Saved predictions at: predictions/DAGMM
+[2020-09-15 10:37:12][INFO][(MainThread)][main.py:41] Saving information to disk.
+[2020-09-15 10:37:16][INFO][(MainThread)][main.py:54] Evaluating all Models.
+[2020-09-15 10:37:16][INFO][(MainThread)][DAGMM.py:74] Starting Evaluation. Points: [15425, 16425]

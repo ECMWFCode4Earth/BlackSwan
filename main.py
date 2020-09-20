@@ -14,7 +14,7 @@ from utils import *
 # Define Time in minutes
 RETRAIN_TIME = 12     # Retrain once a week.
 PREDICT_TIME = 4      # Predict once ever 4 minutes.
-UPDATE_TIME = 4
+UPDATE_TIME = 4 
 
 # =============================================================================
 def initialize():
@@ -67,7 +67,7 @@ if __name__ == '__main__':
     config_object.read("config.ini")
     global_config = config_object["TESTING"]
 
-    # Set up loggings
+    # Set up logging
     logging.config.fileConfig(fname='log_config.ini')
     logger = logging.getLogger(__name__)
     coloredlogs.install(level='DEBUG', logger=logger,fmt="[%(asctime)s][%(name)s] %(message)s",)

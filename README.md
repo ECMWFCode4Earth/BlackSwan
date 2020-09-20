@@ -1,4 +1,4 @@
-**BlackSwan is a Realtime Streaming Anomaly Detection system that combines several state of the art Deep Anomaly methods with an integrated interface for realtime monitering.**
+**BlackSwan is a Realtime Streaming Anomaly Detection system that combines several state of the art Deep Anomaly methods with an integrated interface for realtime monitoring.**
 
 ![image](imgs/anomaly.png)
 
@@ -86,8 +86,8 @@ blackswan
 - [ ] Banpei
 - [ ] N-BEATS
 - [ ] ForecastX
+- [ ] DeepAR
 - [ ] Telemanom 
-
 
  ## Credits and Acknowledgements
 

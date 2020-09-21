@@ -1,8 +1,19 @@
 **BlackSwan is a Realtime Streaming Anomaly Detection system that combines several state of the art Deep Anomaly methods with an integrated interface for realtime monitoring.**
 
 ![image](imgs/anomaly.png)
-![demo](imgs/demo.gif)
 
+- [Realtime Demo](#realtime-demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Implemented Algorithms](#implemented-algorithms)
+- [Credits and Acknowledgements](#credits-and-acknowledgements)
+
+
+
+## Realtime Demo
+
+![demo](imgs/demo.gif)
 
 ---
 
@@ -51,15 +62,20 @@ blackswan
 │   └── DeepADoTS
 ├── predictions                     # Model Predictions
 │   ├── DAGMM
-│   └── LSTM_DAGMM
+│   ├── ...
+│   └── DONUT
 ├── src                             # Runner Scripts for models
 │   └── models
 │       ├── DAGMM.py
 │       ├── LSTM_DAGMM.py
-│       └── REBM.py
+│       ├── LSTMED.py
+│       ├── LSTMAD.py
+│       ├── REBM.py
+│       └── DONUT.py
 ├── weights                         # Weights for trained models
 │   ├── DAGMM
-│   └── LSTM_DAGMM
+│   ├── ...
+│   └── DONUT
 ├── config.ini                      # Root config file 
 ├── current_model_set.json          
 ├── expt_nbs                        # Experimental notebooks
@@ -91,7 +107,7 @@ blackswan
 - [ ] DeepAR
 - [ ] Telemanom 
 
- ## Credits and Acknowledgements
+## Credits and Acknowledgements
 
 This project was funded by [ECMWF](https://www.ecmwf.int/) as part of [ESoWC 2020](https://esowc.ecmwf.int/). 
 
@@ -99,4 +115,3 @@ The following open source libraries were critical in the development of this pro
   - [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS)
   - [GluonTS](https://gluon-ts.mxnet.io/)
   - [banpei](https://github.com/tsurubee/banpei)
-

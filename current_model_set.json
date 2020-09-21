@@ -2,13 +2,13 @@
     "DAGMM": {
         "toTrain": true,
         "toPredict": true,
-        "data_path": "data/June30_mars_4min",
+        "data_path": "data/June30_mars_4min_an",
         "weight_path": "weights/DAGMM",
         "predictions_path": "predictions/DAGMM",
         "train_begin": 0,
-        "train_end": 16395,
+        "train_end": 10455,
         "test_begin": 0,
-        "test_end": 16410,
+        "test_end": 10470,
         "forecast_length": 15,
         "skip_length": 0,
         "training_params": {
@@ -23,7 +23,7 @@
     "LSTM_DAGMM": {
         "toTrain": false,
         "toPredict": false,
-        "data_path": "data/June30_mars_4min",
+        "data_path": "data/June30_mars_4min_an",
         "weight_path": "weights/LSTM_DAGMM",
         "predictions_path": "predictions/LSTM_DAGMM",
         "train_begin": 0,

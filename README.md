@@ -1,6 +1,8 @@
 **BlackSwan is a Realtime Streaming Anomaly Detection system that combines several state of the art Deep Anomaly methods with an integrated interface for realtime monitoring.**
 
 ![image](imgs/anomaly.png)
+![demo](imgs/demo.gif)
+
 
 ---
 
@@ -77,12 +79,12 @@ blackswan
 
 ## Implemented Algorithms
 
-- [x] DAGMM
+- [x] DAGMM 
 - [x] LSTM-DAGMM
-- [ ] Donut
-- [ ] LSTM-AD
-- [ ] LSTM-ED
-- [ ] REBM
+- [x] Donut
+- [x] LSTM-AD
+- [x] LSTM-ED
+- [x] REBM
 - [ ] Banpei
 - [ ] N-BEATS
 - [ ] ForecastX

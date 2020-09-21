@@ -1,11 +1,8 @@
 {
     "DAGMM": {
-        "model": null,
-        "toTrain": true,
-        "toPredict": true,
-        "data_path": "data/June30_mars_4min",
-        "weight_path": "weights/DAGMM",
-        "predictions_path": "predictions/DAGMM",
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/DAGMM/run.pth",
+        "predictions_path": "predictions/DAGMM/sc.txt",
         "train_begin": 0,   
         "train_end": 10440,
         "test_begin": 0,
@@ -21,24 +18,99 @@
             "sequence_length": 20
         }
     },
+
     "LSTM_DAGMM": {
-        "model": null,
-        "toTrain": false,
-        "toPredict": false,
-        "data_path": "data/June30_mars_4min",
-        "weight_path": "weights/LSTM_DAGMM",
-        "predictions_path": "predictions/LSTM_DAGMM",
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/LSTM_DAGMM/run.pth",
+        "predictions_path": "predictions/LSTM_DAGMM/sc.txt",
         "train_begin": 0,
-        "train_end": 10800,
+        "train_end": 10440,
         "test_begin": 0,
         "test_end": null,
+        "forecast_length": 15,
+        "skip_length": 0,
         "training_params": {
             "lambda_energy": 0.2,
             "lr": 0.001,
             "batch_size": 50,
             "gmm_k": 3,
-            "num_epochs": 1,
+            "num_epochs": 2,
             "sequence_length": 20
+        }
+    },
+    
+    "LSTMED": {
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/LSTMED/run.pth",
+        "predictions_path": "predictions/LSTMED/sc.txt",
+        "train_begin": 0,
+        "train_end": 10440,
+        "test_begin": 0,
+        "test_end": null,
+        "forecast_length": 15,
+        "skip_length": 0,
+        "training_params": {
+            "num_epochs": 1,
+            "batch_size": 20,
+            "lr": 1e-3,
+            "hidden_size": 5,
+            "sequence_length": 30,
+            "train_gaussian_percentage": 0.25
+        }
+    },
+
+    "LSTMAD": {
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/LSTMAD/run.pth",
+        "predictions_path": "predictions/LSTMAD/sc.txt",
+        "train_begin": 0,
+        "train_end": 10440,
+        "test_begin": 0,
+        "test_end": null,
+        "forecast_length": 15,
+        "skip_length": 0,
+        "training_params": {
+            "len_in": 1,
+            "len_out": 10,
+            "num_epochs": 3,
+            "lr": 1e-3,
+            "batch_size": 1
+        }
+    },
+
+    "REBM": {
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/REBM/run.pth",
+        "predictions_path": "predictions/REBM/sc.txt",
+        "train_begin": 0,
+        "train_end": 10440,
+        "test_begin": 0,
+        "test_end": null,
+        "forecast_length": 15,
+        "skip_length": 0,
+        "training_params": {
+            "num_epochs": 100,
+            "n_hidden": 50,
+            "n_hidden_recurrent": 100,
+            "min_lr": 1e-3,
+            "batch_size": 10
+        }
+    },
+
+    "DONUT": {
+        "data_path": "data/June30_mars_4min_an",
+        "weight_path": "weights/DONUT/run.pth",
+        "predictions_path": "predictions/DONUT/sc.txt",
+        "train_begin": 0,
+        "train_end": 10440,
+        "test_begin": 0,
+        "test_end": null,
+        "forecast_length": 15,
+        "skip_length": 0,
+        "training_params": {
+            "num_epochs": 10,
+            "batch_size": 32,
+            "x_dims": 120
         }
     }
 }

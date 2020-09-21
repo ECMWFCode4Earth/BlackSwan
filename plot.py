@@ -25,12 +25,13 @@ from pytz import timezone
 # FUNCTIONS
 
 def initialize():
+    
     with open('model_set.json') as f:
         model_set = json.load(f)
     return model_set['DAGMM']['train_end']
 
 def read_tsdt():
-    ROOT_PATH = "data/June30_mars_4min/"
+    ROOT_PATH = "data/June30_mars_4min_an/"
     file = 'ts_bytes_database=marsod_240s.txt'
     raw_ts = pd.read_csv(ROOT_PATH + file, header=None).values.reshape(-1, )
     # raw_ts = raw_ts[:] / (np.mean(raw_ts) * 10)
@@ -39,7 +40,8 @@ def read_tsdt():
     return raw_ts, raw_dt
 
 def read_preds():
-    PREDS_PATH = "predictions/DAGMM/sc2.txt"
+    # TODO: Edit PREDS_PATH to a variable.    
+    PREDS_PATH = "predictions/LSTM_DAGMM/sc.txt"
     try:
         preds = pd.read_csv(PREDS_PATH, header=None).values.reshape(-1, )
         preds = preds[:] / (np.mean(preds) * 10)
@@ -57,10 +59,10 @@ def update_data():
     while(cur_idx < len(preds)):
         cur_ts = raw_ts[cur_idx + init_idx]
         cur_dt = raw_dt[cur_idx + init_idx]
-        cur_sc = preds[cur_idx] * 1e12
+        cur_sc = preds[cur_idx] * 1e12            # * 1e12
         cur_idx += 1
 
-        new_data = dict(dt=[cur_dt], ts=[cur_ts], sc=[cur_sc])
+        new_data = dict(dt=[cur_dt], ts=[cur_ts ], sc=[cur_sc])
         print(f"[{cur_idx}] Time: {cur_dt} | Ts: {cur_ts} | Score: {cur_sc}")
         source.stream(new_data, rollover=15 * 24 * 7)
 
@@ -68,9 +70,9 @@ def update_data():
 # -------------------------------------------------------------------------
 # STREAMING LOOP
 
-cur_idx = 0
-init_idx = initialize()
-raw_ts, raw_dt = read_tsdt()
+cur_idx = 0                     # Index of the plotted point.
+init_idx = initialize()         # Index in the original TS from where evaluation beings.
+raw_ts, raw_dt = read_tsdt()    # Read in the raw Time Series from the `data` folder.
 # print("check1")
 # print(raw_ts[:1000])
 
@@ -98,7 +100,7 @@ fig.xaxis.formatter = DatetimeTickFormatter(
     years   = [time_format]
 )
 
-fig.xaxis.major_label_orientation=radians(90)
+fig.xaxis.major_label_orientation=radians(30)
 
 # Configuration of the callback
 curdoc().add_root(fig)

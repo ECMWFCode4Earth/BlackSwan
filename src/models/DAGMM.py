@@ -1,4 +1,4 @@
-# Use: export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/esowc22/anaconda3/lib/
+# NOTE: Use export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/esowc22/anaconda3/lib/
 
 import sys
 import json
@@ -13,20 +13,23 @@ import tensorflow as tf
 from sklearn.metrics import roc_auc_score
 from datetime import datetime, timedelta
 from lib.DeepADoTS.src.algorithms import DAGMM  
-sys.path.append('/home/esowc22/')
 from utils import *
 
 # ==================================================================================================
 
+TS_NAME = "/ts_bytes_database=marsod_240s.txt"
+DT_NAME = "/dt.txt"
+
 class Meta_DAGMM():
     def __init__(self):
+        '''Initialize the class variables'''
         logging.config.fileConfig(fname='log_config.ini', disable_existing_loggers=False)
         self.logger = logging.getLogger(__name__)
         coloredlogs.install(level='DEBUG', logger=self.logger,fmt="[%(asctime)s][%(name)s] %(message)s",)
         self.ts = None
         self.dt = None
         self.ts_path = None
-        self.dt_path = Non  e
+        self.dt_path = None
         self.weight_path = None
         self.predictions_path = None
         self.train_begin = None
@@ -38,11 +41,12 @@ class Meta_DAGMM():
         self.logger.info("Initialization Succesful.")        
 
     def get_update(self, config):
+        '''Relaod params from updated config'''
         self.forecast_length = config['forecast_length']
         self.skip_length = config['skip_length']
-        self.ts_path = config['data_path'] + "/ts_bytes_database=marsod_240s.txt"
-        self.dt_path = config['data_path'] + "/dt.txt"
-        self.weight_path = config['weight_path'] + '/run1.pth'
+        self.ts_path = config['data_path'] + TS_NAME
+        self.dt_path = config['data_path'] + DT_NAME
+        self.weight_path = config['weight_path']
         self.predictions_path = config['predictions_path']
         self.train_begin = config['train_begin']
         self.train_end = config['train_end']
@@ -76,12 +80,10 @@ class Meta_DAGMM():
         model = DAGMM(**config['training_params'])
         model = torch.load(self.weight_path)
         predictions = model.predict(test_ts)
-        # print(predictions[-50:])
 
         fl = self.forecast_length
-        with open(self.predictions_path + '/sc.txt', "a") as myfile:
+        with open(self.predictions_path, "a") as myfile:
             for i in range(-self.forecast_length-self.skip_length, -self.skip_length):
-                # print(i)
                 myfile.write(str(predictions[i]) + '\n')
         
         self.logger.info(f"Evaluation Done. Saved predictions at: {self.predictions_path}")

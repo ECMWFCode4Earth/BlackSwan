@@ -2,6 +2,7 @@ import copy
 import sys
 import time
 import json
+import threading
 import logging, logging.config
 import coloredlogs
 from configparser import ConfigParser
@@ -11,16 +12,38 @@ from src.models.REBM import Meta_REBM
 from src.models.LSTMED import Meta_LSTMED
 from src.models.LSTMAD import Meta_LSTMAD
 from src.models.DONUT import Meta_DONUT
+from src.models.ForecastX import Meta_ForecastX
+from src.threads.train import TrainThread
+from src.threads.predict import PredictThread
 from utils import *
-
 # =============================================================================
-def initialize():
+
+def process_config(gconfig):
+    int_fields = ['RETRAIN_TIME', 'PREDICT_TIME', 'UPDATE_TIME']
+    list_fields = ['TRAIN_MODELS', 'PRED_MODELS']
+
+    # gconfig['TRAIN_MODELS'] = 10
+    print(type(gconfig))
+    gconfig = dict(gconfig)
+    print(type(gconfig))
+    exit(0)
+
+    for field in int_fields:
+        print(gconfig[field])
+        print(field)
+        print(type(field))
+        t = eval(gconfig[field])
+    for field in list_fields:
+        t = eval(gconfig[field])
+
+def initialize():    
     model_set['DAGMM']['model'] = Meta_DAGMM()
     model_set['LSTM_DAGMM']['model'] = Meta_LSTM_DAGMM()
     model_set['LSTMED']['model'] = Meta_LSTMED()
     model_set['LSTMAD']['model'] = Meta_LSTMAD()
     model_set['REBM']['model'] = Meta_REBM()
     model_set['DONUT']['model'] = Meta_DONUT()
+    model_set['ForecastX']['model'] = Meta_ForecastX()
 
     for model in model_set:
         m_dict = model_set[model]
@@ -55,23 +78,33 @@ def update_model_set(model_set):
 #     with open('current_model_set.json', 'w') as f:
 #         json.dump(new_model_set, f, indent=4)
 
-def start_retrain(model_set, global_config):
+def start_retrain(model_set, gconfig):
     logger.info("Retraining all Models.")
     for model in model_set:
         m_dict = model_set[model]
-        if(model in gconfig['TRAIN_MODELS']):  
-            m_dict['model'].train(m_dict)
+        if(model in gconfig['train_models']):  
+            check = m_dict['model'].train(m_dict)
+            if(check != "OK"): kill_me(check)
 
-
-def start_getpredict(model_set, global_config):
+def start_getpredict(model_set, gconfig):
     logger.info("Evaluating all Models.")
     for model in model_set:
         m_dict = model_set[model]
-        if(model in gconfig['PRED_MODELS']):
-            m_dict['model'].predict(m_dict)
+        if(model in gconfig['pred_models']):
+            check = m_dict['model'].predict(m_dict)
+            if(check != "OK"): kill_me(check) 
+
+def kill_me(reason):
+   """ Called when the program needs to exit. """
+   logger.info(f"Exiting, reason: {reason}")
+   exit(0)
+
+
 
 # =============================================================================
-if __name__ == '__main__':
+
+
+def main():
     # print("=" * get_terminal_width())
     print(" ~ BlackSwan ~ ".center(get_terminal_width(), '='))
 
@@ -79,6 +112,9 @@ if __name__ == '__main__':
     config_object = ConfigParser()
     config_object.read("config.ini")
     gconfig = config_object["DEFAULT"]
+    gconfig = dict(gconfig)
+    for field in gconfig.keys():
+        gconfig[field] = eval(gconfig[field])
 
     # Set up logging
     logging.config.fileConfig(fname='log_config.ini')
@@ -93,18 +129,29 @@ if __name__ == '__main__':
     initialize()
     cur_time = 0
     
+    # train_thread = TrainThread(1)
+    # predict_thread = PredictThread(2)
+
+    # TODO: Check for end of input, and fix it.
     while(True):
-        if(cur_time % int(gconfig['UPDATE_TIME']) == 0):
+        if(cur_time % int(gconfig['update_time']) == 0):
             update_model_set(model_set)
         
-        if(cur_time % int(gconfig['RETRAIN_TIME']) == 0):
+        if(cur_time % int(gconfig['retrain_time']) == 0):   
+            # train_thread.start(model_set, gconfig)
             start_retrain(model_set, gconfig)
 
-        if(cur_time % int(gconfig['PREDICT_TIME']) == 0):
+        if(cur_time % int(gconfig['predict_time']) == 0):
+            # predict_thread.start(model_set, gconfig)
             start_getpredict(model_set, gconfig)
             # update_progress(model_set)      
 
-        time.sleep(1)   # Sleep for 1 seconds
+        # time.sleep(1)   # Sleep for 1 seconds
         cur_time += 1
 
     print("=" * get_terminal_width())
+
+
+if __name__ == '__main__':
+    main()
+    

@@ -50,7 +50,7 @@ class Meta_LSTM_DAGMM():
         self.train_begin = config['train_begin']
         self.train_end = config['train_end']
         # self.test_begin = config['test_begin']
-        self.test_begin = config['test_end'] - 1000
+        self.test_begin = config['test_end'] - 100
         self.test_end = config['test_end']
         self.ts = pd.DataFrame(np.loadtxt(self.ts_path))
         self.dt = load_dt(self.dt_path)

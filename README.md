@@ -20,7 +20,7 @@
 ## Installation
 
 ```sh
-$ git clone https://github.com/adiah80/Project-22.git
+$ git clone https://github.com/esowc/BlackSwan.git
 $ ./setup.sh
 ```
 

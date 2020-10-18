@@ -67,6 +67,7 @@ class Meta_LSTM_DAGMM():
         model.fit(train_ts)
         torch.save(model, self.weight_path)
         self.logger.info(f"Training Done. Saved weights at: {self.weight_path}")
+        return "OK"
 
     def predict(self, config):
         '''Predict and save the predictions'''  
@@ -86,3 +87,4 @@ class Meta_LSTM_DAGMM():
                 myfile.write(str(predictions[i]) + '\n')
         
         self.logger.info(f"Evaluation Done. Saved predictions at: {self.predictions_path}")
+        return "OK"

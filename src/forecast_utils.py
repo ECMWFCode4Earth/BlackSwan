@@ -60,8 +60,11 @@ def get_complete_ts_anomaly_score(ground_truth_values,
     if(quantile_scaling):
         quantile_scaler = QuantileTransformer(output_distribution='normal')
         anomaly_score = quantile_scaler.fit_transform(anomaly_score)
-    
-    if(threshold is not None):
-        anomaly_score[anomaly_score < threshold] = 0
-    
+
+    if(anomaly_score.ndim > 1):
+        if(threshold is not None):
+             anomaly_score[anomaly_score < threshold] = 0
+    else:
+        if(threshold is not None and anomaly_score < threshold):
+             anomaly_score = 0
     return anomaly_score

@@ -12,29 +12,31 @@ from src.models.REBM import Meta_REBM
 from src.models.LSTMED import Meta_LSTMED
 from src.models.LSTMAD import Meta_LSTMAD
 from src.models.DONUT import Meta_DONUT
-from src.models.ForecastX import Meta_ForecastX
 from src.threads.train import TrainThread
 from src.threads.predict import PredictThread
+# from src.models.ForecastX import Meta_ForecastX
 from utils import *
+
+
 # =============================================================================
 
-def process_config(gconfig):
-    int_fields = ['RETRAIN_TIME', 'PREDICT_TIME', 'UPDATE_TIME']
-    list_fields = ['TRAIN_MODELS', 'PRED_MODELS']
+# def process_config(gconfig):
+#     int_fields = ['RETRAIN_TIME', 'PREDICT_TIME', 'UPDATE_TIME']
+#     list_fields = ['TRAIN_MODELS', 'PRED_MODELS']
 
-    # gconfig['TRAIN_MODELS'] = 10
-    print(type(gconfig))
-    gconfig = dict(gconfig)
-    print(type(gconfig))
-    exit(0)
+#     # gconfig['TRAIN_MODELS'] = 10
+#     print(type(gconfig))
+#     gconfig = dict(gconfig)
+#     print(type(gconfig))
+#     exit(0)
 
-    for field in int_fields:
-        print(gconfig[field])
-        print(field)
-        print(type(field))
-        t = eval(gconfig[field])
-    for field in list_fields:
-        t = eval(gconfig[field])
+#     for field in int_fields:
+#         print(gconfig[field])
+#         print(field)
+#         print(type(field))
+#         t = eval(gconfig[field])
+#     for field in list_fields:
+#         t = eval(gconfig[field])
 
 def initialize():    
     model_set['DAGMM']['model'] = Meta_DAGMM()
@@ -43,24 +45,32 @@ def initialize():
     model_set['LSTMAD']['model'] = Meta_LSTMAD()
     model_set['REBM']['model'] = Meta_REBM()
     model_set['DONUT']['model'] = Meta_DONUT()
-    model_set['ForecastX']['model'] = Meta_ForecastX()
+    try:
+        model_set['ForecastX']['model'] = Meta_ForecastX()
+    except:
+        logger.info("Ignoring Forecast X")
 
-    for model in model_set:
-        m_dict = model_set[model]
-        weight_folder = "/".join(m_dict["weight_path"].split("/")[:-1]) 
-        prediction_folder = "/".join(m_dict["predictions_path"].split("/")[:-1]) 
-        os.makedirs(weight_folder, exist_ok=True)
-        os.makedirs(prediction_folder, exist_ok=True)
-        m_dict['test_end'] = m_dict['train_end'] + m_dict['forecast_length'] + m_dict['skip_length']
-        open(m_dict['predictions_path'], 'w').close()
+    for model in model_set:       
+        if(model in gconfig['train_models']):
+            m_dict = model_set[model]
+            weight_folder = "/".join(m_dict["weight_path"].split("/")[:-1]) 
+            os.makedirs(weight_folder, exist_ok=True)
+
+        if(model in gconfig['pred_models']):
+            m_dict = model_set[model]
+            prediction_folder = "/".join(m_dict["predictions_path"].split("/")[:-1]) 
+            os.makedirs(prediction_folder, exist_ok=True)
+            m_dict['test_end'] = m_dict['train_end'] + m_dict['forecast_length'] + m_dict['skip_length']
+            open(m_dict['predictions_path'], 'w').close()      # Clean existing predictions
 
     logger.info("All Models Initialized.")
 
 def update_model_set(model_set):
     for model in model_set:
-        m_dict = model_set[model]
-        m_dict['train_end'] += m_dict['forecast_length']
-        m_dict['test_end'] += m_dict['forecast_length']
+        if(model in gconfig['pred_models']):
+            m_dict = model_set[model]
+            m_dict['train_end'] += m_dict['forecast_length']
+            m_dict['test_end'] += m_dict['forecast_length']
 
 # def update_progress(model_set):    
 #     '''
@@ -81,16 +91,17 @@ def update_model_set(model_set):
 def start_retrain(model_set, gconfig):
     logger.info("Retraining all Models.")
     for model in model_set:
-        m_dict = model_set[model]
-        if(model in gconfig['train_models']):  
+        if(model in gconfig['train_models']): 
+            m_dict = model_set[model]
             check = m_dict['model'].train(m_dict)
             if(check != "OK"): kill_me(check)
 
+# TODO: Return "OK" from all methods when finish training/preds.
 def start_getpredict(model_set, gconfig):
     logger.info("Evaluating all Models.")
     for model in model_set:
-        m_dict = model_set[model]
         if(model in gconfig['pred_models']):
+            m_dict = model_set[model]
             check = m_dict['model'].predict(m_dict)
             if(check != "OK"): kill_me(check) 
 
@@ -104,8 +115,7 @@ def kill_me(reason):
 # =============================================================================
 
 
-def main():
-    # print("=" * get_terminal_width())
+if __name__ == '__main__':
     print(" ~ BlackSwan ~ ".center(get_terminal_width(), '='))
 
     # Get Global config file
@@ -119,12 +129,15 @@ def main():
     # Set up logging
     logging.config.fileConfig(fname='log_config.ini')
     logger = logging.getLogger(__name__)
-    coloredlogs.install(level='DEBUG', logger=logger,fmt="[%(asctime)s][%(name)s] %(message)s",)
+    coloredlogs.install(level='DEBUG', 
+                        logger=logger,
+                        fmt="[%(asctime)s][%(name)s] %(message)s")
 
     # Load Model Set
     with open('model_set.json') as f:
         model_set = json.load(f)
-    logger.info(f"Loaded Model Set.")
+    logger.info(f"Loaded Model Set.")    # print("=" * get_terminal_width())
+
 
     initialize()
     cur_time = 0
@@ -150,8 +163,3 @@ def main():
         cur_time += 1
 
     print("=" * get_terminal_width())
-
-
-if __name__ == '__main__':
-    main()
-    

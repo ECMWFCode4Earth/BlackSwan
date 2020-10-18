@@ -84,10 +84,13 @@ class Meta_ForecastX():
                                                       epsilon = 100, 
                                                       quantile_scaling = False,
                                                       threshold = -1000000)
-
+        predictions = np.array(predictions)
         with open(self.predictions_path, "a") as myfile:
             for i in range(-self.forecast_length-self.skip_length, -self.skip_length):
-                myfile.write(str(predictions[i]) + '\n')
+                if(predictions.ndim > 1):   
+                    myfile.write(str(predictions[i]) + '\n')
+                else:
+                    myfile.write(str(predictions) + '\n')
         
         self.logger.info(f"Evaluation Done. Saved predictions at: {self.predictions_path}")
         return "OK"

@@ -1,3 +1,5 @@
+# BlackSwan : Realtime Streaming Anomaly Detection
+
 **BlackSwan is a Realtime Streaming Anomaly Detection system that combines several state of the art Deep Anomaly methods with an integrated interface for realtime monitoring.**
 
 ![image](imgs/anomaly.png)
@@ -26,7 +28,7 @@ $ git clone https://github.com/esowc/BlackSwan.git
 $ cd BlackSwan
 ```
 
-###Using pip
+##Using pip
 ```
 $ pip install .
 ```

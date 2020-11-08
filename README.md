@@ -28,7 +28,7 @@ $ git clone https://github.com/esowc/BlackSwan.git
 $ cd BlackSwan
 ```
 
-##Using pip
+Using pip
 ```
 $ pip install .
 ```

@@ -1,184 +1,30 @@
-[2020-10-18 11:33:26][INFO][(MainThread)][DONUT.py:39] Initialization Succesful.
-[2020-10-18 11:33:26][INFO][(MainThread)][main.py:51] Ignoring Forecast X
-[2020-10-18 11:33:26][INFO][(MainThread)][main.py:66] All Models Initialized.
-[2020-10-18 11:33:26][INFO][(MainThread)][main.py:92] Retraining all Models.
-[2020-10-18 11:33:26][INFO][(MainThread)][LSTM_DAGMM.py:64] Starting Training. Points: [0, 10441]
-[2020-10-18 11:33:48][INFO][(MainThread)][LSTM_DAGMM.py:69] Training Done. Saved weights at: weights/LSTM_DAGMM/run.pth
-[2020-10-18 11:33:48][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:48][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10342, 10442]
-[2020-10-18 11:33:48][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:48][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:48][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10343, 10443]
-[2020-10-18 11:33:49][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:49][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:49][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10344, 10444]
-[2020-10-18 11:33:50][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:50][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:50][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10345, 10445]
-[2020-10-18 11:33:51][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:51][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:51][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10346, 10446]
-[2020-10-18 11:33:51][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:51][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:52][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10347, 10447]
-[2020-10-18 11:33:52][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:52][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:52][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10348, 10448]
-[2020-10-18 11:33:53][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:53][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:53][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10349, 10449]
-[2020-10-18 11:33:54][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:54][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:54][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10350, 10450]
-[2020-10-18 11:33:54][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:54][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:55][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10351, 10451]
-[2020-10-18 11:33:55][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:55][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:55][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10352, 10452]
-[2020-10-18 11:33:56][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:56][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:56][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10353, 10453]
-[2020-10-18 11:33:57][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:57][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:57][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10354, 10454]
-[2020-10-18 11:33:57][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:57][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:58][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10355, 10455]
-[2020-10-18 11:33:58][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:58][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:58][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10356, 10456]
-[2020-10-18 11:33:59][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:33:59][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:33:59][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10357, 10457]
-[2020-10-18 11:34:00][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:00][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:00][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10358, 10458]
-[2020-10-18 11:34:00][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:00][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:01][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10359, 10459]
-[2020-10-18 11:34:01][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:01][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:01][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10360, 10460]
-[2020-10-18 11:34:02][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:02][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:02][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10361, 10461]
-[2020-10-18 11:34:03][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:03][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:03][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10362, 10462]
-[2020-10-18 11:34:03][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:03][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:04][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10363, 10463]
-[2020-10-18 11:34:04][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:04][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:04][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10364, 10464]
-[2020-10-18 11:34:05][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:05][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:05][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10365, 10465]
-[2020-10-18 11:34:06][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:06][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:06][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10366, 10466]
-[2020-10-18 11:34:06][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:06][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:07][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10367, 10467]
-[2020-10-18 11:34:07][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:07][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:07][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10368, 10468]
-[2020-10-18 11:34:08][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:08][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:08][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10369, 10469]
-[2020-10-18 11:34:09][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:09][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:09][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10370, 10470]
-[2020-10-18 11:34:09][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:09][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:10][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10371, 10471]
-[2020-10-18 11:34:10][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:10][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:10][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10372, 10472]
-[2020-10-18 11:34:11][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:11][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:11][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10373, 10473]
-[2020-10-18 11:34:12][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:12][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:12][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10374, 10474]
-[2020-10-18 11:34:12][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:12][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:13][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10375, 10475]
-[2020-10-18 11:34:13][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:13][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:13][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10376, 10476]
-[2020-10-18 11:34:14][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:14][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:14][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10377, 10477]
-[2020-10-18 11:34:15][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:15][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:15][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10378, 10478]
-[2020-10-18 11:34:15][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:15][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:16][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10379, 10479]
-[2020-10-18 11:34:16][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:16][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:16][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10380, 10480]
-[2020-10-18 11:34:17][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:17][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:17][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10381, 10481]
-[2020-10-18 11:34:18][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:18][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:18][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10382, 10482]
-[2020-10-18 11:34:18][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:18][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:19][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10383, 10483]
-[2020-10-18 11:34:19][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:19][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:19][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10384, 10484]
-[2020-10-18 11:34:20][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:20][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:20][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10385, 10485]
-[2020-10-18 11:34:21][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:21][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:21][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10386, 10486]
-[2020-10-18 11:34:21][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:21][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:22][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10387, 10487]
-[2020-10-18 11:34:22][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:22][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:22][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10388, 10488]
-[2020-10-18 11:34:23][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:23][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:23][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10389, 10489]
-[2020-10-18 11:34:24][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:24][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:24][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10390, 10490]
-[2020-10-18 11:34:24][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:24][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:25][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10391, 10491]
-[2020-10-18 11:34:25][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:25][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:25][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10392, 10492]
-[2020-10-18 11:34:26][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:26][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:26][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10393, 10493]
-[2020-10-18 11:34:27][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:27][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:27][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10394, 10494]
-[2020-10-18 11:34:27][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:27][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:28][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10395, 10495]
-[2020-10-18 11:34:28][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:28][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:28][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10396, 10496]
-[2020-10-18 11:34:29][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:29][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:29][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10397, 10497]
-[2020-10-18 11:34:30][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:30][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:30][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10398, 10498]
-[2020-10-18 11:34:31][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:31][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:31][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10399, 10499]
-[2020-10-18 11:34:31][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:31][INFO][(MainThread)][main.py:101] Evaluating all Models.
-[2020-10-18 11:34:31][INFO][(MainThread)][LSTM_DAGMM.py:78] Starting Evaluation. Points: [10400, 10500]
-[2020-10-18 11:34:32][INFO][(MainThread)][LSTM_DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/LSTM_DAGMM/sc.txt
-[2020-10-18 11:34:32][INFO][(MainThread)][main.py:101] Evaluating all Models.
+[2020-11-08 18:28:25][INFO][(MainThread)][DONUT.py:39] Initialization Succesful.
+[2020-11-08 18:28:25][INFO][(MainThread)][main.py:51] Ignoring Forecast X
+[2020-11-08 18:28:25][INFO][(MainThread)][main.py:66] All Models Initialized.
+[2020-11-08 18:28:25][INFO][(MainThread)][main.py:157] Time: 0
+[2020-11-08 18:28:25][INFO][(MainThread)][train.py:24] Retraining all Models.
+[2020-11-08 18:28:25][INFO][(MainThread)][DAGMM.py:65] Starting Training. Points: [0, 10441]
+[2020-11-08 18:28:36][INFO][(MainThread)][DAGMM.py:70] Training Done. Saved weights at: weights/DAGMM/run.pth
+[2020-11-08 18:28:46][INFO][(MainThread)][predict.py:22] Evaluating all Models.
+[2020-11-08 18:28:47][INFO][(MainThread)][DAGMM.py:79] Starting Evaluation. Points: [9442, 10442]
+[2020-11-08 18:28:48][INFO][(MainThread)][DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/DAGMM/sc.txt
+[2020-11-08 18:28:49][INFO][(MainThread)][main.py:157] Time: 1
+[2020-11-08 18:28:50][INFO][(MainThread)][main.py:157] Time: 2
+[2020-11-08 18:28:51][INFO][(MainThread)][main.py:157] Time: 3
+[2020-11-08 18:28:52][INFO][(MainThread)][main.py:157] Time: 4
+[2020-11-08 18:28:53][INFO][(MainThread)][main.py:157] Time: 5
+[2020-11-08 18:28:53][INFO][(MainThread)][predict.py:22] Evaluating all Models.
+[2020-11-08 18:28:54][INFO][(MainThread)][DAGMM.py:79] Starting Evaluation. Points: [9443, 10443]
+[2020-11-08 18:28:55][INFO][(MainThread)][DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/DAGMM/sc.txt
+[2020-11-08 18:28:56][INFO][(MainThread)][main.py:157] Time: 6
+[2020-11-08 18:28:57][INFO][(MainThread)][main.py:157] Time: 7
+[2020-11-08 18:28:58][INFO][(MainThread)][main.py:157] Time: 8
+[2020-11-08 18:28:59][INFO][(MainThread)][main.py:157] Time: 9
+[2020-11-08 18:29:00][INFO][(MainThread)][main.py:157] Time: 10
+[2020-11-08 18:29:00][INFO][(MainThread)][predict.py:22] Evaluating all Models.
+[2020-11-08 18:29:01][INFO][(MainThread)][DAGMM.py:79] Starting Evaluation. Points: [9444, 10444]
+[2020-11-08 18:29:02][INFO][(MainThread)][DAGMM.py:89] Evaluation Done. Saved predictions at: predictions/DAGMM/sc.txt
+[2020-11-08 18:29:03][INFO][(MainThread)][main.py:157] Time: 11
+[2020-11-08 18:29:04][INFO][(MainThread)][main.py:157] Time: 12
+[2020-11-08 18:29:05][INFO][(MainThread)][main.py:157] Time: 13
+[2020-11-08 18:29:06][INFO][(MainThread)][main.py:157] Time: 14

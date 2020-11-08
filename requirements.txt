@@ -1,0 +1,39 @@
+# Data Generator
+agots @ git+https://github.com/KDD-OpenSource/agots#egg=agots
+
+# Requirements for donut (https://github.com/korepwx/donut)
+
+zhusuan @ git+https://github.com/thu-ml/zhusuan.git
+tfsnippet @ git+https://github.com/korepwx/tfsnippet.git@ecc0b4d1e610cf8cfa8c236857a7dabee27d5543
+donut @ git+https://github.com/korepwx/donut.git
+
+# Requirements for dagmm (https://github.com/danieltan07/dagmm)
+torch
+#-f https://download.pytorch.org/whl/torch_stable.html
+torchvision
+h5py
+
+# Requirements for LSTM-Enc-Dec
+argparse
+pyparsing
+cycler
+
+
+# Remaining requirements that should be installed if not already done so
+numpy
+pandas
+tqdm
+scipy>=0.14.0
+scikit-learn>=0.19.1
+tensorflow==1.15
+flake8
+matplotlib
+progressbar2
+tabulate
+vulture
+pytest==5.2.
+
+#For forecast_x
+forecast_x
+
+coloredlogs

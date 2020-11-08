@@ -89,33 +89,40 @@ def update_model_set(model_set):
 #         json.dump(new_model_set, f, indent=4)
 
 def start_retrain(model_set, gconfig):
-    logger.info("Retraining all Models.")
-    for model in model_set:
-        if(model in gconfig['train_models']): 
-            m_dict = model_set[model]
-            check = m_dict['model'].train(m_dict)
-            if(check != "OK"): kill_me(check)
+    # logger.info("Retraining all Models.")
+    # for model in model_set:
+    #     if(model in gconfig['train_models']): 
+    #         m_dict = model_set[model]
+    #         check = m_dict['model'].train(m_dict)
+    #         if(check != "OK"): kill_me(check)
+
+    train_thread = TrainThread("thread0", logger)
+    train_thread.run(model_set, gconfig)
+    print("Done Training")
 
 # TODO: Return "OK" from all methods when finish training/preds.
 def start_getpredict(model_set, gconfig):
-    logger.info("Evaluating all Models.")
-    for model in model_set:
-        if(model in gconfig['pred_models']):
-            m_dict = model_set[model]
-            check = m_dict['model'].predict(m_dict)
-            if(check != "OK"): kill_me(check) 
+    # logger.info("Evaluating all Models.")
+    # for model in model_set:
+    #     if(model in gconfig['pred_models']):
+    #         m_dict = model_set[model]
+    #         check = m_dict['model'].predict(m_dict)
+    #         if(check != "OK"): kill_me(check) 
+
+    predict_thread = PredictThread("thread1", logger)
+    predict_thread.run(model_set, gconfig)
+    print("Done Evaluations")
+    
 
 def kill_me(reason):
    """ Called when the program needs to exit. """
    logger.info(f"Exiting, reason: {reason}")
    exit(0)
 
-
-
 # =============================================================================
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':  
     print(" ~ BlackSwan ~ ".center(get_terminal_width(), '='))
 
     # Get Global config file
@@ -146,7 +153,9 @@ if __name__ == '__main__':
     # predict_thread = PredictThread(2)
 
     # TODO: Check for end of input, and fix it.
-    while(True):
+    while(True):    
+        logger.info("Time: " + str(cur_time))
+
         if(cur_time % int(gconfig['update_time']) == 0):
             update_model_set(model_set)
         
@@ -159,7 +168,7 @@ if __name__ == '__main__':
             start_getpredict(model_set, gconfig)
             # update_progress(model_set)      
 
-        # time.sleep(1)   # Sleep for 1 seconds
+        time.sleep(1)   # Sleep for 1 seconds
         cur_time += 1
 
     print("=" * get_terminal_width())

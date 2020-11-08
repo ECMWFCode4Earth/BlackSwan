@@ -19,9 +19,16 @@
 
 ## Installation
 
-```sh
-$ git clone https://github.com/adiah80/Project-22.git
-$ ./setup.sh
+First, clone the repository to your local machine and switch to the repository folder
+
+```
+$ git clone https://github.com/esowc/BlackSwan.git
+$ cd BlackSwan
+```
+
+###Using pip
+```
+$ pip install .
 ```
 
 ## Usage
